@@ -56,4 +56,5 @@ print("--------------------------------------------------------------")
 <img width="521" height="252" alt="image" src="https://github.com/user-attachments/assets/f51159dc-a5ee-4fbc-b649-22282a401a9a" />
 
 ## Result : 
-
+Thus,theprogramhasbeenexecutedsuccessfullyandtherequiredparametershavebeencalculatedasperthegiven
+conditions.
